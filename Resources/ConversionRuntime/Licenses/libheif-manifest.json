@@ -1,0 +1,13 @@
+{
+  "name": "libheif",
+  "version": "1.23.2",
+  "targetPlatform": "darwin",
+  "targetArch": "arm64",
+  "sourceUrl": "https://github.com/strukturag/libheif/releases/download/v1.23.2/libheif-1.23.2.tar.gz",
+  "sourceSha256": "8bd5d41d19dc84536d118b04774709f244df6104ef66d623dad5fa4650143405",
+  "packageSpecs": [
+    "libde265=1.1.1=h3feff0a_0",
+    "libjpeg-turbo=3.1.4.1=h84a0fba_0",
+    "libpng=1.6.58=h132b30e_0"
+  ]
+}

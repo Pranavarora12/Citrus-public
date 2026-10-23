@@ -1,0 +1,1 @@
+Blank standard OOXML presentation generated locally with python-pptx 1.0.2. Contains no user presentation content. Used as the baseline master/layout/theme graph for Citrus PDF-to-PPTX export. python-pptx is MIT-licensed; source: https://github.com/scanny/python-pptx .

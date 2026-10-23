@@ -1,0 +1,33 @@
+# Generated apps, compiler caches, test outputs, and diagnostics
+/build/
+/Citrus Desktop.app/
+
+# macOS and editor state
+.DS_Store
+._*
+.AppleDouble/
+.LSOverride
+*.xcuserstate
+xcuserdata/
+.idea/
+.vscode/
+*~
+*.swp
+*.swo
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+
+# Python tooling
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Prepared release archives
+/release/
